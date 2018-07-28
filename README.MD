@@ -1,5 +1,5 @@
-NerdDinner
-==========
+JJ.Demos.NerdDinner
+===================
 
 *Jan-Joost van Zon, 2013*
 
